@@ -23,13 +23,8 @@ To run this project, you need the following:
 ## Installation
 
 1. Clone the repository or download the project files.
-2. Navigate to the project directory:
 
-   ```bash
-   cd d:\Python\pytopia_project_based_python\4.4_site_connectivity_checher\Code
-   ```
-
-3. Install the required dependencies:
+2. Install the required dependencies:
 
    ```bash
    pip install -r requirements.txt
